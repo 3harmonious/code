@@ -1,0 +1,49 @@
+ .but {
+ 	width: 160px;
+ 	height: 50px;
+ 	background-color: #BF4630;
+ 	font-size: 50;
+ 	border: 0px;
+ border-radius: 16px;
+ }
+ .but:hover {
+ 	width: 165px;
+ 	height: 55px;
+ 	background-color: #000000;
+ 	font-size: 50;
+ 	border: 0px;
+ }
+  .login {
+  	top: 227px;
+  	 margin-bottom: 25px;
+ border-radius: 4px;
+ padding-left: 9px;
+ height: 30px; 
+ width: 10cm;
+  }
+  .password {
+  	top: 227px;
+  	 margin-bottom: 25px;
+ border-radius: 4px;
+ padding-left: 9px;
+ height: 30px;
+ content: "/f2c0";
+ width: 10cm;
+  }
+  .container {
+  	background-color: #06799F;
+  	height: 10cm;
+  	width: 12cm;
+  	border-radius: 5px;
+  	border: 0px;
+  	 margin: 100px 0 100px 0;
+  	 left: 100px;
+  }
+  .container img{
+ width:120px;
+ height:120px;
+ margin: -60px 0 30px 0;
+ border: 5px solid #1a394f;
+ border-radius: 50%;
+ box-shadow: 0 -5px 0 #3adbfd;
+}
